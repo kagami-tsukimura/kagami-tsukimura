@@ -1,5 +1,12 @@
 ## Thank you for visiting!
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/kagami_t/posts.svg)](http://qiita.com/kagami_t)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg)](http://qiita.com/kagami_t)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/kagami_t/followers.svg)](http://qiita.com/kagami_t)
+
+
+
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagami-tsukimura&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagami-tsukimura&count_private=true&show_icons=true&theme=cobalt" />
