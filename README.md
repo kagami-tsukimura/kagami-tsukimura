@@ -1,3 +1,5 @@
+<div><img src="./images/sleep_penguin.jpeg" /></div>
+
 ## Thank you for visiting!
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kagami_t/posts.svg)](http://qiita.com/kagami_t)
