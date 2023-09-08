@@ -1,4 +1,16 @@
-## Thank you for visiting!
+## 🐧Thank you for visiting!🐧
+
+I'm [Kagami](https://qiita.com/kagami_t) !💭
+
+:page_with_curl: I'm currently learning:
+<br><br>
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
+<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
+<img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
+<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
+<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
+
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kagami_t/posts.svg)](http://qiita.com/kagami_t)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg)](http://qiita.com/kagami_t)
