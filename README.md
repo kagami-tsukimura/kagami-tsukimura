@@ -2,6 +2,27 @@
 
 I'm [Kagami](https://qiita.com/kagami_t) !💭
 
+### Qiita Activities
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/kagami_t/posts.svg)](http://qiita.com/kagami_t)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg)](http://qiita.com/kagami_t)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/kagami_t/followers.svg)](http://qiita.com/kagami_t)
+
+### GitHub Activities
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagami-tsukimura&layout=compact&count_private=true&show_icons=true&hide=jupyter%20notebook&theme=cobalt" />
+
+  
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagami-tsukimura&count_private=true&show_icons=true&theme=cobalt" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kagami-tsukimura&no-bg=true&theme=discord&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<br />
 :page_with_curl: I'm favorite environments:
 <br />
   
@@ -35,26 +56,3 @@ I'm [Kagami](https://qiita.com/kagami_t) !💭
 </div>
 
 <br />
-
-### Qiita Activities
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/kagami_t/posts.svg)](http://qiita.com/kagami_t)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg)](http://qiita.com/kagami_t)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/kagami_t/followers.svg)](http://qiita.com/kagami_t)
-
-### GitHub Activities
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagami-tsukimura&layout=compact&count_private=true&show_icons=true&hide=jupyter%20notebook&theme=cobalt" />
-
-  
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagami-tsukimura&count_private=true&show_icons=true&theme=cobalt" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kagami-tsukimura&no-bg=true&theme=discord&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
