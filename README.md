@@ -23,10 +23,10 @@ I'm [Kagami](https://qiita.com/kagami_t) !💭
 [![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br />
-:page_with_curl: I'm favorite environments:
-<br />
+
+### I'm favorite environments:
   
-### Languages
+**Languages**
 
 <div>
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=plastic">
@@ -34,7 +34,7 @@ I'm [Kagami](https://qiita.com/kagami_t) !💭
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=plastic">
 </div>
 
-### Libraries and Frameworks
+**Libraries and Frameworks**
 
 <div>
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
@@ -43,7 +43,7 @@ I'm [Kagami](https://qiita.com/kagami_t) !💭
 <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
 </div>
 
-### Others
+**Others**
 
 <div>
 <img src="https://img.shields.io/badge/-Linux-66595C.svg?logo=linux&style=plastic">
