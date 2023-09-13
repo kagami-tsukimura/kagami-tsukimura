@@ -39,16 +39,19 @@
 </div>
 
 ## Favorite environments:
-  
-**Languages**
+
+### Languages
+<div align="center">
 
 <div>
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=plastic">
 <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=plastic">
 </div>
+</div>
 
-**Libraries and Frameworks**
+### Libraries and Frameworks
+<div align="center">
 
 <div>
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
@@ -56,17 +59,21 @@
 <img src="https://img.shields.io/badge/-Streamlit-232F3E.svg?logo=streamlit&style=plastic">
 <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
 </div>
+</div>
 
-**Others**
+### Others
+<div align="center">
 
 <div>
 <img src="https://img.shields.io/badge/-Linux-66595C.svg?logo=linux&style=plastic">
 <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=plastic">
 <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
+<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
+<br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=plastic">
 <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=plastic">
+</div>
 </div>
 
 <br />
