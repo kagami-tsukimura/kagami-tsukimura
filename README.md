@@ -1,12 +1,25 @@
-# 🐧Thank you for visiting!🐧
+<div align="center">
+<h1>🐧Thank you for visiting!🐧</h1>
+</div>
 
-I'm [Kagami](https://qiita.com/kagami_t) !💭
+<div align="center">
+    <h2>Hi, I'm 🪞</h1>
+    <p>A penguin-loving ML engineer.</p>
+</div>
 
-### Qiita Activities
+## Qiita Activities
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/kagami_t/posts.svg)](http://qiita.com/kagami_t)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg)](http://qiita.com/kagami_t)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/kagami_t/followers.svg)](http://qiita.com/kagami_t)
+<div align="center">
+  <a target="_blank" href="http://qiita.com/kagami_t">
+    <img alt="Qiita posts" src="https://qiita-badge.apiapi.app/s/kagami_t/posts.svg"/>
+  </a>
+  <a target="_blank" href="http://qiita.com/kagami_t">
+    <img alt="Qiita contributions" src="https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg"/>
+  </a>
+  <a target="_blank" href="http://qiita.com/kagami_t">
+    <img alt="Qiita followers" src="https://qiita-badge.apiapi.app/s/kagami_t/followers.svg"/>
+  </a>
+</div>
 
 ### GitHub Activities
 
