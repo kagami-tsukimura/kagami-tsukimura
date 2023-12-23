@@ -5,6 +5,7 @@
 <div align="center">
     <h2>Hi, I'm 🪞</h1>
     <p>A penguin-loving ML engineer.</p>
+    [Penguin for CNN Demo](https://kagami-tsukimura.github.io/penguin-image-classification/)
 </div>
 
 ## Qiita Activities
