@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2>Hi, I'm 🪞</h1>
+    <h2>Hi, I'm 🪞</h2>
     <p>A penguin-loving ML engineer.</p>
     <a href="https://kagami-tsukimura.github.io/penguin-image-classification/">Penguin for CNN Demo</a>
 </div>
@@ -72,3 +72,5 @@
 </div>
 
 <br />
+
+![00054-1236.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3292052/fe21ff87-1302-0c1e-1f26-cb0c87c651e8.png)
