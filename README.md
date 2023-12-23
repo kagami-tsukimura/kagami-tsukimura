@@ -73,5 +73,3 @@
 </div>
 
 <br />
-
-![00054-1236.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3292052/fe21ff87-1302-0c1e-1f26-cb0c87c651e8.png)
