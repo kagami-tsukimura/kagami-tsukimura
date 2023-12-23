@@ -1,5 +1,6 @@
 <div align="center">
-<h1>🐧Thank you for visiting!🐧</h1>
+    <h1>🐧Thank you for visiting!🐧</h1>
+    <img alt="Penguin banner" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3292052/45fdc908-7af1-87cc-a314-6ca035bf8ea0.png"/>
 </div>
 
 <div align="center">
