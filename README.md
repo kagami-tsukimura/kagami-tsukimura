@@ -32,7 +32,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagami-tsukimura&count_private=true&show_icons=true&theme=cobalt" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kagami-tsukimura&no-bg=true&theme=discord&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=kagami-tsukimura&no-bg=true&theme=discord&column=4&rank=S,AAA,AA,A
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
