@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/swift/4-productive-time.svg)
-```
-
-    
