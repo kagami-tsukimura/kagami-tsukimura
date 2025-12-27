@@ -25,15 +25,6 @@
 ## GitHub Activities 
 <div align="center">
 
-<p> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagami-tsukimura&layout=compact&count_private=true&show_icons=true&hide=jupyter%20notebook&theme=cobalt" />
-  
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagami-tsukimura&count_private=true&show_icons=true&theme=cobalt" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kagami-tsukimura&no-bg=true&theme=alduin&column=5&rank=SSS,SS,S,AAA,AA,A,SECRET
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
