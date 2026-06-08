@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-    <h2>Hi, I'm 🪞</h2>
     <p>A penguin-loving ML engineer.</p>
 </div>
 
