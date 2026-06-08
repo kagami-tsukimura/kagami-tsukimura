@@ -1,63 +1,83 @@
-<div align="center">
-    <h1>🐧Thank you for visiting!🐧</h1>
-</div>
+# 🐧 Kagami
 
-<div align="center">
-    <p>A penguin-loving ML engineer.</p>
-</div>
+AWS All Certifications Engineer  
+Generative AI | MLOps | Computer Vision | Tech Lead | Playing Manager
 
-## Qiita Activities
+🏆 AWS Certified: All Certifications
 
-<div align="center">
-  <a target="_blank" href="http://qiita.com/kagami_t">
-    <img alt="Qiita posts" src="https://qiita-badge.apiapi.app/s/kagami_t/posts.svg"/>
-  </a>
-  <a target="_blank" href="http://qiita.com/kagami_t">
-    <img alt="Qiita contributions" src="https://qiita-badge.apiapi.app/s/kagami_t/contributions.svg"/>
-  </a>
-  <a target="_blank" href="http://qiita.com/kagami_t">
-    <img alt="Qiita followers" src="https://qiita-badge.apiapi.app/s/kagami_t/followers.svg"/>
-  </a>
-</div>
+---
 
-## GitHub Activities 
-<div align="center">
+## About Me
 
-[![](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+My primary expertise is Computer Vision, MLOps, and Generative AI on AWS.
 
-<br>
-</div>
+I have led production projects, improved machine learning accuracy, introduced MLOps practices, mentored engineers, and built Generative AI PoCs using Amazon Bedrock.
 
-## Favorite environments
+Based in Nagoya, Japan.
+
+---
+
+## Tech Stack
+
+### Cloud
+
+- AWS
+- Terraform
+
+### AI / Machine Learning
+
+- Computer Vision
+- Object Detection
+- MLOps
+- Generative AI
+- RAG
+- AI Agents
 
 ### Languages
 
-<div>
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=plastic">
-<img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=plastic">
-</div>
+- Python
+- TypeScript
+- JavaScript
+- GO
+- ShellScript
 
-### Libraries and Frameworks
+### Familiar With
 
-<div>
-<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
-<img src="https://img.shields.io/badge/-FastAPI-FFFFFF.svg?logo=fastapi&style=plastic">
-<img src="https://img.shields.io/badge/-Streamlit-232F3E.svg?logo=streamlit&style=plastic">
-<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
-</div>
+- Rust
+- Java
+- VB
 
-### Others
+### Frameworks / Libraries
 
-<div>
-<img src="https://img.shields.io/badge/-Linux-66595C.svg?logo=linux&style=plastic">
-<img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=plastic">
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
-<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
-<br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=plastic">
-<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=plastic">
-</div>
+- React
+- Next.js
+- FastAPI
+- Flask
+- Streamlit
+- Angular
+- NestJS
 
-<br />
+### Database / Tools
+
+- PostgreSQL
+- Docker
+- Linux
+- Ubuntu
+- GitHub
+- GitHub Actions
+- VS Code
+- Jupyter Notebook
+
+---
+
+## Activities
+
+### Qiita
+
+[Qiita Profile](https://qiita.com/kagami_t)
+
+### GitHub
+
+![GitHub Profile Summary](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+
+---
